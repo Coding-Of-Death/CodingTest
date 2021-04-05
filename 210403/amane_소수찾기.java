@@ -25,11 +25,11 @@ public class Main{
     }
     
     /*
-     * cha 		= 문자열을 문자로 쪼개 저장한 배열
+     * cha 	= 문자열을 문자로 쪼개 저장한 배열
      * output 	= 조합을 통해 뽑은 문자 배열
-     * arr 		= 소수인 숫자들을 저장하는 ArrayList
+     * arr 	= 소수인 숫자들을 저장하는 ArrayList
      * depth	= dfs에서 현재 깊이
-     * r 		= cha에서 뽑을 문자의 개수
+     * r 	= cha에서 뽑을 문자의 개수
      */
     static void perm(char[] cha, char[] output, ArrayList<Integer> arr, int depth, int r) {
         
