@@ -4,8 +4,8 @@
 알고리즘: 힙
 heapq(최소힙) 함수 이용
 
-heapify: 리스트를 힙 형태로 만들어줌
-heappop: 힙 첫번째 원소 pop
+heapify: 리스트를 힙 형태로 만들어줌 => O(N)
+heappop: 힙에서 가장 작은 원소 pop
 heappush: 힙에 원소 삽입
 
 heap에서 가장 작은수, 다음 작은 수를 pop한 뒤 계산하고 다시 힙에 넣는다.
