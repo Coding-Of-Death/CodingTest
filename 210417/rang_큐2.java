@@ -1,3 +1,10 @@
+/*
+   시간 1초
+   Scanner를 사용하면 시간초과가 된다.
+   ArrayList를 사용하면 시간초과가 된다.
+   배열을 리스트처럼 정리하려하면 시간초과가 된다.
+*/
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
