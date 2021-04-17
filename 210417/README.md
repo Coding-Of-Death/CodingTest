@@ -12,5 +12,5 @@
 <br />
 
 ### 수업
- * [DFS/BFS](https://programmers.co.kr/learn/courses/30/lessons/43162)
+ * [DFS/BFS>네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)
  * 
