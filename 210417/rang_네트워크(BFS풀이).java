@@ -3,36 +3,27 @@ import java.util.*;
 
 class Solution {
     public int solution(int n, int[][] computers) {
-        int count, answer = 0;
+        int answer = 0;
         boolean[] checked = new boolean[n];
         Queue<Integer> queue = new LinkedList<>();
         
-        for (int i = 0; i < n; i ++) {
-            for (int j = 0; j < n; j++) {
-                if (computers[i][j] == 1) {
-                    queue.offer(j);
-                }
+        for (int i = 0; i < n; i++) {
+            if (!checked[i]) {
+                answer++;
+                checked[i] = true;
+                queue.add(i);
             }
             
-            count = 0;
-            
-            while(!queue.isEmpty()) {
-                int j = queue.poll();
+            while (!queue.isEmpty()) {
+                int c = queue.remove();
                 
-                if(!checked[j]) {
-                    checked[j] = true;
-                    count++;
-                    
-                    for (int k = 0; k < n; k++) {
-                        if (computers[j][k] == 1) {
-                            queue.offer(k);
-                        }
+                for (int j = 0; j < n; j++) {
+                    if (!checked[j] && computers[c][j] == 1) {
+                        checked[j] = true;
+                        queue.add(j);
                     }
                 }
-            }
-            
-            if (count > 0)
-                answer++;
+            }  
         }
         
         return answer;
