@@ -21,3 +21,11 @@
 |[개근상](https://www.acmicpc.net/problem/1563)         |동적 프로그래밍(DP) 문제|
 |[SNS](https://www.acmicpc.net/problem/2533)            |그래프 문제            |
 |[ACM Craft](https://www.acmicpc.net/problem/1005)      |그래프 문제            |
+
+<br />
+
+### 수업
+|문제|문제 유형|
+|:--:|:-------|
+|[보석쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258)|슬라이딩 윈도우|
+|[입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)|이분탐색|
