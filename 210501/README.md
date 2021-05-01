@@ -16,5 +16,5 @@
 ### 수업
 |문제|문제 유형|
 |:--:|:-------|
-|||
+|[이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)|힙|
 |||
