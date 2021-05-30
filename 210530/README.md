@@ -10,3 +10,11 @@
 |[트리 순회](https://www.acmicpc.net/problem/1991)|트리|
 |[가르침](https://www.acmicpc.net/problem/1062)||
 |[합이 0인 네 정수](https://www.acmicpc.net/problem/7453)||
+
+<br />
+
+### 수업
+|문제|문제 유형|
+|:--:|:-------|
+|[뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)||
+|[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)||
