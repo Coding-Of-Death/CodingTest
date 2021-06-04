@@ -16,5 +16,5 @@
 ### 수업
 |문제|문제 유형|
 |:--:|:-------|
-|[뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)||
-|[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)||
+|[뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|다중집합, 정렬의 응용|
+|[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)|백트래킹|
