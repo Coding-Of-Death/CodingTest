@@ -1,0 +1,28 @@
+import java.util.*;
+class Solution {
+    public int[] solution(int[] lottos, int[] win_nums) {
+        
+        int cnt = 0;
+        int fail = 0;
+        
+        Arrays.sort(lottos);
+        Arrays.sort(win_nums);
+        
+        for(int i = 0 ; i < 6; i++){
+            if(lottos[i]==0) fail++;
+            for(int j = 0 ; j < 6; j++){
+                if(lottos[i] == win_nums[j]){
+                    cnt++;
+                }
+            }
+        }
+        
+        int max = 7 - (cnt + fail)>6 ? 6 : 7 - (cnt + fail);
+        int min = 7 - cnt > 6 ? 6 : 7 - cnt ;
+        
+        int[] answer = {max,min};
+        
+        
+        return answer;
+    }
+}
