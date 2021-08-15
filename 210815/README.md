@@ -5,4 +5,4 @@
 |[절댓값 힙](https://www.acmicpc.net/problem/11286)|힙|
 |[전깃줄](https://www.acmicpc.net/problem/2565)|DP|
 |[ATM](https://www.acmicpc.net/problem/11399)|그리디, 정렬|
-|[트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|트리 탐색|
+|[트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|트리 탐색, DFS/BFS|
