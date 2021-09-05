@@ -5,3 +5,4 @@
 |문제|문제 유형|
 |:--:|:--------|
 |[스킬 체크 - 레벨 2](https://programmers.co.kr/skill_checks/311890)|* 코드를 올리지 마세요.문제가 다 다르게 출제됨|
+|[5주차](https://programmers.co.kr/learn/courses/30/lessons/84512)|중복순열|
