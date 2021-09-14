@@ -1,3 +1,17 @@
+### 과제
+
+<br />
+
+|과제|과제 유형|
+|:--:|:--------|
+|[ACM호텔](https://www.acmicpc.net/problem/10250)|시뮬레이션|
+|[바이러스](https://www.acmicpc.net/problem/2606)|DFS/BFS|
+|[최단경로](https://www.acmicpc.net/problem/1753)|다익스트라|
+|[운동](https://www.acmicpc.net/problem/1956)|플로이드 와샬|
+|[로봇 청소기](https://www.acmicpc.net/problem/14503)|시뮬레이션|
+
+
+
 ### 수업
 
 <br />
