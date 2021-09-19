@@ -1,3 +1,6 @@
+// 아마네님 코드 참고
+// caseNum : 트리로 해석하면 해당 높이의 node가 가지는 서브트리의 노드 개수
+
 class Solution {
     public int solution(String word) {
         int answer = 0;
