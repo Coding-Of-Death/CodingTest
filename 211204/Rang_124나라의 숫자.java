@@ -37,7 +37,7 @@ class Solution {
 
       while(n > 0){
           answer = num[n % 3] + answer;
-          n = (n - 1) / 3;
+          n = (n - 1) / 3;      // 자리 올림 안 하기 위한 방법, n % 3 = 0 일 때만 자리 수 올림이 안된다.
       }
       return answer;
   }
