@@ -5,3 +5,4 @@
 |[상호 평가](https://programmers.co.kr/learn/courses/30/lessons/83201)|배열|
 |[기지국 설치](https://programmers.co.kr/learn/courses/30/lessons/12979)|그리디|
 
+* [AMANE]: 상호 평가 문제는 사라졌습니다. (알고 싶지 않았어..) *
