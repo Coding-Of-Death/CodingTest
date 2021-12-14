@@ -3,9 +3,10 @@ class Solution {
         long answer = (long) money;
         
         for(int i = 1; i <= count; i++){
-            money -= (long) price * i;
+            long p = (long) price * i;
+            answer -= p;
         }
         
-        return money <= 0 ? Math.abs((long) money) : 0;
+        return answer <= 0 ? Math.abs(answer) : 0;
     }
 }
