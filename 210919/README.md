@@ -19,3 +19,6 @@
 |문제|문제 유형|
 |:--:|:-----|
 |[7주차](https://programmers.co.kr/learn/courses/30/lessons/86048)|배열|
+
+
+* [AMANE]: 7주차.. 사라졌습니다.. *
