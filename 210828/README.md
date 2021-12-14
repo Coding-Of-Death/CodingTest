@@ -12,3 +12,5 @@
 |:--:|:--------|
 |[4주차](https://programmers.co.kr/learn/courses/30/lessons/84325)|시뮬레이션|
 |[카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829)|DFS/BFS|
+
+* [AMANE]: 4주차도.. 사라졌습니다.. *
