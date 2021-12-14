@@ -14,3 +14,5 @@
 |:--:|:--------|
 |[8주차](https://programmers.co.kr/learn/courses/30/lessons/86491)|배열, 브루트포스|
 |[6주차](https://programmers.co.kr/learn/courses/30/lessons/85002)|구현, 브루트포스|
+
+* [AMANE]: 6주차.. 사라졌습니다.. *
