@@ -4,8 +4,8 @@ class Solution {
         val answer: IntArray = IntArray(n) { 0 }
         
         val map = Array(n) {IntArray(n) { 0 }}
-        for (report in report) {
-            report.split(" ").apply {
+        for (repo in report) {
+            repo.split(" ").apply {
                 val sIdx = id_list.indexOf(this[0])
                 val uIdx = id_list.indexOf(this[1])
                 
